@@ -6,4 +6,3 @@ elif a < b:
 else:
     print("a == b")
  
- 
