@@ -7,4 +7,3 @@ while True:
         print(x, y)
     else:
         print(y, x)
-        
