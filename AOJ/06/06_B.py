@@ -1,6 +1,5 @@
 #cards = [[for n in range(13)] for s in range["S", "H", "C", "D"]]
 #input
-
 pattern = ["S", "H", "C", "D"]
 cards = [[False for i in range(13)] for j in range(4)]
 
@@ -16,13 +15,3 @@ for i in range(n):
 for j in range(4):
     for i in range(13):
         if cards[j][i]==False:print(pattern[j],i+1)
-
-
-
-
-
-
-
-
-
-
