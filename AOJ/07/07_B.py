@@ -19,8 +19,6 @@
 # if n == 0 and x == 0:
        
     #n(n-1)(n-2)//6
-
-
 while True:
     n, x = map(int, input().split())
     if n == 0 and x == 0:
