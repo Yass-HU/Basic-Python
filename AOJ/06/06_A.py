@@ -1,3 +1,3 @@
 a = input().split()
 a.reverse()
-print(" ".join(a)) 
+print(" ".join(a))
