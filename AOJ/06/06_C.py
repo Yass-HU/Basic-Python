@@ -8,7 +8,5 @@ for i in range(4):
         for k in range(10):
             print(f' {count[i][j][k]}', end="")
         print()
-    if i ==3:break
+    if i ==3:breaｋ
     print('#####################')
-
-    
