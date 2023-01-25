@@ -1,3 +1,4 @@
+#fixed2nd
 
 while True:
     n, x = map(int, input().split())
@@ -10,3 +11,4 @@ while True:
                 if i + j + k == x:
                     count += 1
     print(count)
+
