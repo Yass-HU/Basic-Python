@@ -11,4 +11,4 @@ while True:
                 if i + j + k == x:
                     count += 1
     print(count)
-#fixed 07
+
