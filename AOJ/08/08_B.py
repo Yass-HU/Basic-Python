@@ -1,3 +1,4 @@
+# 8_B
 def new_func():
     return int
 
