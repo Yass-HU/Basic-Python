@@ -8,7 +8,8 @@ answers
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -162,4 +163,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+test.ipynb
